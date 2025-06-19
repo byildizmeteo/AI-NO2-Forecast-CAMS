@@ -19,13 +19,9 @@ The aim is to complement traditional numerical weather prediction models with ma
 - netCDF4, Matplotlib, Cartopy
 - Jupyter Notebook
 
-## 🔬 Status
+## 📊 Example Visual 
 
-Project in early development phase. Forecasting script and baseline model under construction.
-
-## 📊 Example Visual (to be added)
-
-_(Plot of NO₂ map will go here)_
+![Figure](https://github.com/user-attachments/assets/44eddbb9-c5b8-4db4-853d-4e65b77ff52b)
 
 ## 📎 Author
 
