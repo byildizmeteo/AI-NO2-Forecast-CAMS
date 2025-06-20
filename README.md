@@ -9,8 +9,6 @@ The aim is to complement traditional numerical weather prediction models with ma
 - 📥 Load and preprocess CAMS NO₂ data (NetCDF format)
 - 🧪 Build a PyTorch-based time series prediction model
 - 🌍 Visualize NO₂ forecast spatially using `cartopy` and `matplotlib`
-- 🗂 Document the methodology in a Jupyter Notebook
-- 🚀 Share results as open-source on GitHub
 
 ## 🧰 Tools and Technologies
 
